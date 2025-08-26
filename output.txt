@@ -1,6 +1,1 @@
-alamin
-alamin
-alamin
-alamin
-alamin
-alamin
+sum= 500000000500000000
