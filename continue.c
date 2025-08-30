@@ -8,9 +8,6 @@ int main()
             continue;
         }
         printf("%d\n",i);
-        if(i==5)
-        {
-            continue;
-        }
+      
     }
 }
